@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Hamari Hindi
-subtitle: "Ek Kahani"
+subtitle: ""
 url: "http://hamarihindi.in" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
